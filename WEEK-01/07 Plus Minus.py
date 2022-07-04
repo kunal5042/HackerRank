@@ -22,4 +22,3 @@ def plusMinus(arr):
     print(counts['zeroes']/len(arr))
     
 # Kunal Wadhwa
-# 6621 1445 5286

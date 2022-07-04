@@ -10,4 +10,3 @@ def miniMaxSum(arr):
     print(sum(arr) - min(arr))
     
 # Kunal Wadhwa
-# 6621 1445 5286

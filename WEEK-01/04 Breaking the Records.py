@@ -26,4 +26,3 @@ def breakingRecords(scores):
     return result
 
 # Kunal Wadhwa
-# 6621 1445 5286
