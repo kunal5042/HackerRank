@@ -17,4 +17,3 @@ def rotateLeft(d, arr):
     return arr
 
 # Kunal Wadhwa
-# 6621 1445 5286

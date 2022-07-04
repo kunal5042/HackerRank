@@ -17,4 +17,3 @@ def kangaroo(x1, v1, x2, v2):
     return 'YES' if result >= 0 and result.is_integer() else 'NO'
 
 # Kunal Wadhwa
-# 6621 1445 5286
