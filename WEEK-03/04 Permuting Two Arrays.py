@@ -18,4 +18,3 @@ def twoArrays(k, A, B):
     return 'YES'
 
 # Kunal Wadhwa
-# 6621 1445 5286

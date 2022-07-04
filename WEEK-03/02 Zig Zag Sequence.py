@@ -24,4 +24,3 @@ for cs in range (test_cases):
     findZigZagSequence(a, n)
     
 # Kunal Wadhwa
-# 6621 1445 5286

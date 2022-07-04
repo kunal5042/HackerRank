@@ -15,4 +15,3 @@ print(strings_xor(s, t))
 
 
 # Kunal Wadhwa
-# 6621 1445 5286
