@@ -27,4 +27,3 @@ def countingValleys(steps, path):
     return valleys
 
 # Kunal Wadhwa
-# 6621 1445 5286

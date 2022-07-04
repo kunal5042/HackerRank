@@ -22,4 +22,3 @@ def pangrams(s):
     return 'not pangram'
 
 # Kunal Wadhwa
-# 6621 1445 5286
