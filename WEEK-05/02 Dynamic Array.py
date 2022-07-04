@@ -35,4 +35,3 @@ def dynamicArray(n, queries):
     return answers
 
 # Kunal Wadhwa
-# 6621 1445 5286

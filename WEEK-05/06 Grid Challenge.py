@@ -28,4 +28,3 @@ def gridChallenge(grid):
     return 'YES'
 
 # Kunal Wadhwa
-# 6621 1445 5286

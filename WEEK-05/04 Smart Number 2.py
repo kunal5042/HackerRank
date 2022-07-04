@@ -23,4 +23,3 @@ for _ in range(int(input())):
 
 
 # Kunal Wadhwa
-# 6621 1445 5286

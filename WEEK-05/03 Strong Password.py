@@ -24,4 +24,3 @@ def minimumNumber(n, password):
         return count
 
 # Kunal Wadhwa
-# 6621 1445 5286
