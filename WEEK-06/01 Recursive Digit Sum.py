@@ -29,4 +29,3 @@ def helper(num_string):
     return helper(str(num_sum))
 
 # Kunal Wadhwa
-# 6621 1445 5286

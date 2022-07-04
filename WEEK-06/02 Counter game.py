@@ -28,4 +28,3 @@ def counterGame(n):
     return 'Louise' if turn % 2 != 0 else 'Richard'
 
 # Kunal Wadhwa
-# 6621 1445 5286

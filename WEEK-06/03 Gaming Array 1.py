@@ -19,4 +19,3 @@ def gamingArray(arr):
     return 'ANDY' if helper(arr) % 2 == 0 else 'BOB'
 
 # Kunal Wadhwa
-# 6621 1445 5286
